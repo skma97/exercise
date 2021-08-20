@@ -1,4 +1,3 @@
-
 This documentation describes how to use the Karel automatic 
 toothbrush.
 
