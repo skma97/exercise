@@ -1,7 +1,7 @@
 This documentation describes how to use the Karel automatic 
-toothbrush.
+aluminum toothbrush.
 
 Note that this toothbrush is totally safe to use for children, 
-adults, pets, wildlife, and trees. 
+adults, pets, wildlife, trees, and bushes. 
 
-The toothbrush requires attention.
+This toothbrush requires attention. 
